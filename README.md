@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen
 - 👀 I’m interested in Flutter & Scripting
-- 🌱 I’m currently learning Learning.
+- 🌱 I’m currently learning Learning
 - 💞️ I’m looking to collaborate on Flutter projects.
 - 📫 How to reach me @NaveenNirban
 
